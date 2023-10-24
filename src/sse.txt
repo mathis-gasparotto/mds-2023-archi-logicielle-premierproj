@@ -1,0 +1,6 @@
+Header:
+Content-Type: text/event-stream
+
+id: <number>\n
+event: message\n
+data: {"event":"created","data":null}\n\n
